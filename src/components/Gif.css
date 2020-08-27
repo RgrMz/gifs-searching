@@ -1,0 +1,18 @@
+.img-gif{
+    box-shadow: 4px 4px 4px whitesmoke;
+    box-shadow: 6px 6px 6px grey;
+    max-height: 300px;
+    max-width: 300px;
+    margin: 50px 50px;
+}
+
+.title{
+    font-family: 'Times New Roman';
+    font-size: 1.15em;
+    color: whitesmoke;
+    text-shadow: 3px 3px 3px grey;
+}
+
+.gif-container{
+    padding: 20px 20px;
+}

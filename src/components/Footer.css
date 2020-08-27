@@ -1,0 +1,14 @@
+#footer-container{
+    display: flex;
+    justify-content: center;
+    padding: 15px 15px;
+    border: 1px solid whitesmoke;
+}
+
+#author{
+    font-family: 'Consolas', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px grey;
+    color: whitesmoke;
+    margin: auto;
+}
